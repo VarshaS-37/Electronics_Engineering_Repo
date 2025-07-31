@@ -2,25 +2,34 @@
 
 ### 🔗 Folder Links & Descriptions
 
-- [Assignments](Assignments/) – Academic or course-related submissions.
-- [Internship](Internship/) – Internship documents or reports.
-- [Technilab Instruments](Technilab%20Instruments/) – Work or documentation related to Technilab.
-- [PPTs](PPTs/) – Presentation slides for various topics.
-- [PiEnergi](PiEnergi/) – Materials related to the PiEnergi project.
-- [Projects_that_remained_as_ideas](Projects_that_remained_as_ideas/) – Conceptual or incomplete projects.
-- [Technical_Seminar](Technical_Seminar/) – Seminar content and technical presentations.
+<details>
+<summary><strong>📂 Assignments</strong></summary>
+  
+Collection of my semester assignments performed using softwares like C, MATLAB, Simulink, Multisim and tools like HFSS, LTE Tool.
 
----
+</details>
 
 <details>
-<summary>📂 Click to expand folder list</summary>
+<summary><strong>📂 Internship</strong></summary>
+Report of my Internship at Technilab Instruments.
+</details>
 
-- [Assignments](Assignments/)
-- [Internship](Internship/)
-- [Technilab Instruments](Technilab%20Instruments/)
-- [PPTs/](PPTs)
-- [PiEnergi](PiEnergi/)
-- [Projects_that_remained_as_ideas](Projects_that_remained_as_ideas/)
-- [Technical_Seminar](Technical_Seminar/)
+<details>
+<summary><strong>📂 PPTs</strong></summary>
+Collection of PPTs which I presented in a group.
+</details>
 
+<details>
+<summary><strong>📂 PiEnergi</strong></summary>
+Mini Project: Vehicle Deceleration Energy Harvesting System (Arduino Nano) via Piezoelectric Technology (Piezo Sensors).
+</details>
+
+<details>
+<summary><strong>📂 Projects_that_remained_as_ideas</strong></summary>
+Project Ideas that were proposed but didn't make it further.
+</details>
+
+<details>
+<summary><strong>📂 Technical_Seminar</strong></summary>
+Presented a research paper: Development of a Penguin-Inspired Swimming Robot With Air Lubrication System
 </details>
