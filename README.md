@@ -5,14 +5,14 @@
 <details>
 <summary><strong><a href="https://github.com/VarshaS-37/My_Engineering_Repo/tree/main/Assignments">📝 Assignments</a></strong></summary>
   
-Collection of my semester assignments performed using softwares like C, MATLAB, Simulink, Multisim and tools like HFSS, LTE Tool.
+Collection of my semester assignments performed using C, softwares like MATLAB, Simulink, Multisim and tools like HFSS, LTE Tool.
 
 </details>
 
 <details>
 <summary><strong><a href="https://github.com/VarshaS-37/My_Engineering_Repo/tree/main/Internship">📡 Internship</a></strong></summary>
   
-Report of my Internship at Technilab Instruments.
+Report of my Internship at Technilab Instrument.
 
 </details>
 
