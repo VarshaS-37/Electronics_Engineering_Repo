@@ -1,6 +1,6 @@
 ## 📁 Repository Structure
 
-### 🔗 Folder Links & Descriptions
+### 🔗 Folder Links & Description
 
 <details>
 <summary><strong><a href="https://github.com/VarshaS-37/My_Engineering_Repo/tree/main/Assignments">📝 Assignments</a></strong></summary>
