@@ -17,21 +17,21 @@ Report of my Internship at Technilab Instrument.
 </details>
 
 <details>
-<summary><strong><a href="https://github.com/VarshaS-37/My_Engineering_Repo/tree/main/PPTs">✨ PPTs</a></strong></summary>
+<summary><strong><a href="https://github.com/VarshaS-37/My_Engineering_Repo/tree/main/PPTs">💫 PPTs</a></strong></summary>
   
 Collection of PPTs which I presented in a group.
 
 </details>
 
 <details>
-<summary><strong><a href="https://github.com/VarshaS-37/My_Engineering_Repo/tree/main/PiEnergi">⚡️ PiEnergi</a></strong></summary>
+<summary><strong><a href="https://github.com/VarshaS-37/My_Engineering_Repo/tree/main/PiEnergi">🔋 PiEnergi</a></strong></summary>
   
 Mini Project: Vehicle Deceleration Energy Harvesting System (Arduino Nano) via Piezoelectric Technology (Piezo Sensors).
 
 </details>
 
 <details>
-<summary><strong><a href="https://github.com/VarshaS-37/My_Engineering_Repo/tree/main/Projects_that_remained_as_ideas">🔥 Projects_that_remained_as_ideas</a></strong></summary>
+<summary><strong><a href="https://github.com/VarshaS-37/My_Engineering_Repo/tree/main/Projects_that_remained_as_ideas">💎 Projects_that_remained_as_ideas</a></strong></summary>
   
 Project Ideas that were proposed but didn't make it further.
 
