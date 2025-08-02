@@ -34,7 +34,7 @@ Mini Project: Vehicle Deceleration Energy Harvesting System (Arduino Nano) via P
 <summary><strong><a href="https://github.com/VarshaS-37/My_Engineering_Repo/tree/main/Projects_that_remained_as_ideas">💎 Projects_that_remained_as_ideas</a></strong></summary>
   
 Project Ideas that were proposed but didn't make it further.
-
+#### Note: "Fruit Espy" project was originally proposed by our professor Dr.Raghunandan G H.
 </details>
 
 <details>
