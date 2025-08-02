@@ -10,14 +10,14 @@ Collection of my semester assignments performed using C, softwares like MATLAB, 
 </details>
 
 <details>
-<summary><strong><a href="https://github.com/VarshaS-37/My_Engineering_Repo/tree/main/Internship">📡 Internship</a></strong></summary>
+<summary><strong><a href="https://github.com/VarshaS-37/My_Engineering_Repo/tree/main/Internship">📣 Internship</a></strong></summary>
   
 Report of my Internship at Technilab Instrument.
 
 </details>
 
 <details>
-<summary><strong><a href="https://github.com/VarshaS-37/My_Engineering_Repo/tree/main/PPTs">💫 PPTs</a></strong></summary>
+<summary><strong><a href="https://github.com/VarshaS-37/My_Engineering_Repo/tree/main/PPTs">🌟 PPTs</a></strong></summary>
   
 Collection of PPTs which I presented in a group.
 
